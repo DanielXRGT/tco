@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy - TCOmpare</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; line-height: 1.6; color: #333; }
+        h1, h2 { color: #000; }
+        .date { font-style: italic; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for TCOmpare</h1>
+    <p class="date"><strong>Effective Date:</strong> December 24, 2025</p>
+
+    <p>This Privacy Policy governs the use of the TCOmpare mobile application ("the Service"), published by <strong>Daniel Barbosa De Jorge</strong>. The Service is a financial calculation tool designed to compare the Total Cost of Ownership (TCO) between electric and gasoline-powered vehicles.</p>
+
+    <p>We are committed to protecting your privacy. This policy outlines what data we collect, how it is used, and how it is secured.</p>
+
+    <h2>1. Data Collection and Use</h2>
+    <p>The Service is designed to be highly privacy-focused. We do not collect, store, or transmit any personally identifiable information (PII) to our servers.</p>
+    <ul>
+        <li><strong>Personal Information (Name, Email, Phone):</strong> NOT COLLECTED. Not required for the Service's function.</li>
+        <li><strong>Financial Inputs (Mileage, Prices, Rates):</strong> Stored Locally Only. Used solely for calculation and restoring the user's session.</li>
+        <li><strong>Device Identifiers / Ad IDs:</strong> Collected by Third-Parties. Required to serve advertisements via Google AdMob (see Section 3).</li>
+    </ul>
+
+    <h2>2. Local Data Storage and Persistence</h2>
+    <p>All financial and usage data you input into the TCOmpare application (including years, mileage, cost tiers, and loan rates) are stored exclusively on your device using AsyncStorage.</p>
+    <ul>
+        <li><strong>No Cloud Storage:</strong> This data is not backed up to our servers, transmitted to us, or accessible by the publisher.</li>
+        <li><strong>User Control:</strong> You control the deletion of this data by clearing the app's cache or uninstalling the application.</li>
+    </ul>
+
+    <h2>3. Third-Party Data Sharing and Advertising (AdMob)</h2>
+    <p>The Service uses Google AdMob to serve advertisements, which is necessary for the application to be distributed for free.</p>
+    <ul>
+        <li><strong>Google Mobile Ads SDK:</strong> The Google Mobile Ads SDK (used by AdMob) is integrated into the Service. This SDK may collect and share certain anonymous device identifiers (such as the advertising ID) to serve personalized advertisements.</li>
+        <li><strong>Opt-Out:</strong> Users can opt-out of ad personalization through their device settings (e.g., Android Privacy Settings).</li>
+        <li><strong>User Tracking Consent:</strong> By using this Service, you consent to the use of your device's tracking identifier for the purpose of personalized advertising.</li>
+    </ul>
+
+    <h2>4. Security</h2>
+    <p>Since we do not collect or store sensitive personal information, the primary security burden is on your device. We rely on the security features of the Android and iOS operating systems to protect the local data stored by the app.</p>
+
+    <h2>5. Contact Information</h2>
+    <p>If you have any questions about this Privacy Policy or the Service, please contact the developer:</p>
+    <p>
+        <strong>Developer Name:</strong> Daniel Barbosa De Jorge<br>
+        <strong>Developer Entity:</strong> Individual / Sole Proprietor<br>
+        <strong>Support Email:</strong> <a href="mailto:daniel.b.dejorge@gmail.com">daniel.b.dejorge@gmail.com</a>
+    </p>
+</body>
+</html>
